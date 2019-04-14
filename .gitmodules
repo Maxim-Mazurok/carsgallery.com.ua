@@ -2,5 +2,5 @@
 	path = app
 	url = https://github.com/Maxim-Mazurok/carsgallery.com.ua-app.git
 [submodule "carsgallery.com.ua-cms"]
-	path = cmd
+	path = cms
 	url = https://github.com/Maxim-Mazurok/carsgallery.com.ua-cms.git
