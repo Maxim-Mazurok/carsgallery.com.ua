@@ -32,6 +32,7 @@
   - [ ] FAQ
   - [ ] About
   - [ ] Terms
+- [ ] Configure free SSL-certificate 
 
 ## Finances
 - [x] Get $100 in advance (total agreed fee is $600)
