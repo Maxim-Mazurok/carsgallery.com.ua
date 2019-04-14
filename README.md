@@ -34,7 +34,7 @@
   - [ ] Terms
 
 ## Finances
-- [x] I received $100 in advance (total agreed fee is $600)
+- [x] Get $100 in advance (total agreed fee is $600)
 - [x] Buy hosting and domain - bought for 1076 UAH on Apr 14, 2019.
 - [ ] Get 1076 UAH from the client
 - [ ] Get $500 after the job is done
