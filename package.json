@@ -1,0 +1,37 @@
+{
+  "name": "carsgallery.com.ua",
+  "version": "1.0.0",
+  "description": "Sell & Rent Cars Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxim-Mazurok/carsgallery.com.ua.git"
+  },
+  "keywords": [
+    "sell",
+    "rent",
+    "car",
+    "website"
+  ],
+  "author": {
+    "name": "Maxim Mazurok",
+    "url": "https://maxim.mazurok.com",
+    "email": "maxim@mazurok.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxim-Mazurok/carsgallery.com.ua/issues"
+  },
+  "homepage": "https://github.com/Maxim-Mazurok/carsgallery.com.ua#readme",
+  "private": true,
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.9.0"
+  },
+  "devDependencies": {
+    "npm-check-updates": "^3.1.7"
+  }
+}

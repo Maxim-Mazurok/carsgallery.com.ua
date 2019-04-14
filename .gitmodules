@@ -1,0 +1,6 @@
+[submodule "carsgallery.com.ua-app"]
+	path = app
+	url = https://github.com/Maxim-Mazurok/carsgallery.com.ua-app.git
+[submodule "carsgallery.com.ua-cms"]
+	path = cmd
+	url = https://github.com/Maxim-Mazurok/carsgallery.com.ua-cms.git
