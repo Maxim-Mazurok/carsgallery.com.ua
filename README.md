@@ -1,4 +1,5 @@
 # carsgallery.com.ua
+
 ## Meeting notes
 - Client has the logo
 - Likes full-screen logo on the black background to appear on the first screen (I don't recommend it, will try during the design phase)
@@ -31,7 +32,6 @@
   - [ ] FAQ
   - [ ] About
   - [ ] Terms
-
 
 ## Finances
 - [x] I received $100 in advance (total agreed fee is $600)
