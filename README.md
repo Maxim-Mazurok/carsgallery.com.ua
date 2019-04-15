@@ -19,21 +19,20 @@
 - Labels for cars - they should be able to add following labels to the car postings: "New arrival", "Sale" ("Новинка", "Акция")
 - carsgallery.com.ua - that's the domain name that they decided on
 - About company - create a page with the [company description](pages/about/en.md) (make a links from "call", "come to office", etc.)
-- FAQ - like [here](https://ukr-prokat.com/en/info1) but with different texts
 - Internationalization - English, Russian and Ukrainian
+- Callback hunter ([binotel/getcall](http://www.binotel.ua/getcall))
+- Only USD currency
+- No car categories
 
 ## Tasks
 - [ ] Get the logo source in original quality
-- [ ] Get Russian texts:
-  - [ ] FAQ
+- [x] Get Russian texts:
   - [x] [About](pages/about/ru.md)
   - [x] [Terms](pages/terms/ru.md)
-- [ ] Get English translations for:
-  - [ ] FAQ
+- [x] Get English translations for:
   - [x] [About](pages/about/en.md)
   - [x] [Terms](pages/terms/en.md)
-- [ ] Get Ukrainian translations for:
-  - [ ] FAQ
+- [x] Get Ukrainian translations for:
   - [x] [About](pages/about/uk.md)
   - [x] [Terms](pages/terms/uk.md)
 - [x] Upload placeholder image to the website
