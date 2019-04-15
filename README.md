@@ -26,6 +26,7 @@
 
 ## Tasks
 - [ ] Get the logo source in original quality
+- [ ] Enable slider animation when everything is finished (change `slide={false}` to `slide={true}` in `app/src/Slider.js`)
 - [x] Get Russian texts:
   - [x] [About](pages/about/ru.md)
   - [x] [Terms](pages/terms/ru.md)
