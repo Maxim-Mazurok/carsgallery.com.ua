@@ -67,6 +67,12 @@
   - [ ] Make sure that telegram links are set
 - [ ] Run pa11y tests
 - [ ] Enable slider animation (remove `interval={null}` from `app/src/Slider.js`)
+- [ ] Make sure everything works fine on hosting
+  - Server-side rendering with PHP? [read](https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/)
+  - Ask hosting support to enable NodeJS?
+  - Setup routing, so that CMS works, and React renders correctly?
+  - Use hash-routing strategy for React?
+  - Use subdomain for CMS?
 
 ## Finances
 - [ ] Get 1076 UAH from the client
