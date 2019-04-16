@@ -25,6 +25,7 @@
 - No car categories
 
 ## Tasks
+- [ ] Create telegram usernames for both phones (to make links on the website)
 - [ ] Get the logo source in original quality
 - [ ] Enable slider animation when everything is finished (remove `interval={null}` from `app/src/Slider.js`)
 - [x] Get Russian texts:
