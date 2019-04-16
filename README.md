@@ -24,10 +24,26 @@
 - Only USD currency
 - No car categories
 
+## Pages
+- [ ] Home page
+  - [ ] Markup
+  - [ ] Backend integration
+- [ ] Buy
+  - [ ] Markup
+  - [ ] Backend integration
+- [ ] Rent
+  - [ ] Markup
+  - [ ] Backend integration
+- [x] About us
+  - [x] Markup
+  - [ ] Backend integration (optional)
+- [x] Contacts
+  - [x] Markup
+  - [ ] Backend integration (optional)
+
 ## Tasks
 - [ ] Create telegram usernames for both phones (to make links on the website) and set links
 - [ ] Get the logo source in original quality
-- [ ] Enable slider animation when everything is finished (remove `interval={null}` from `app/src/Slider.js`)
 - [x] Get Russian texts:
   - [x] [About](pages/about/ru.md)
   - [x] [Terms](pages/terms/ru.md)
@@ -41,6 +57,16 @@
 - [x] Include rtf documents into the repository and link
 - [x] Get all contacts for page
 - [x] Configure free SSL-certificate 
+
+## Release check-list
+- [ ] Translation
+  - [ ] Check that everything is translated
+  - [ ] Check that there's no unresolved translations
+  - [ ] Disable i18n debug mode
+- [ ] Check any eslint issues
+  - [ ] Make sure that telegram links are set
+- [ ] Run pa11y tests
+- [ ] Enable slider animation (remove `interval={null}` from `app/src/Slider.js`)
 
 ## Finances
 - [ ] Get 1076 UAH from the client
