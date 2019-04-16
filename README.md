@@ -1,5 +1,7 @@
 # carsgallery.com.ua
 
+**[Demo](https://carsgallery-com-ua-app.herokuapp.com/)**
+
 ## Meeting notes
 - Client has the logo
 - Likes full-screen logo on the black background to appear on the first screen (I don't recommend it, will try during the design phase)
@@ -73,6 +75,7 @@
   - Setup routing, so that CMS works, and React renders correctly?
   - Use hash-routing strategy for React?
   - Use subdomain for CMS?
+- [ ] Set favicon using [generator](https://realfavicongenerator.net/) or something react-specific
 
 ## Finances
 - [ ] Get 1076 UAH from the client
