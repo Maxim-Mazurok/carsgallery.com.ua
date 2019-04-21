@@ -28,12 +28,18 @@
 
 ## Pages
 - [ ] Home page
-  - [ ] Markup
+  - [x] Markup
   - [ ] Backend integration
 - [ ] Buy
+  - [x] Markup
+  - [ ] Backend integration
+- [ ] Buy single car
   - [ ] Markup
   - [ ] Backend integration
 - [ ] Rent
+  - [x] Markup
+  - [ ] Backend integration
+- [ ] Rent single car
   - [ ] Markup
   - [ ] Backend integration
 - [x] About us
@@ -68,7 +74,7 @@
 - [ ] Check any eslint issues
   - [ ] Make sure that telegram links are set
 - [ ] Run pa11y tests
-- [ ] Enable slider animation (remove `interval={null}` from `app/src/Slider.js`)
+- [ ] Enable slider animation (add `interval={5000}` to `<Slider/>` in `Home.js`)
 - [ ] Make sure everything works fine on hosting
   - Server-side rendering with PHP? [read](https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/)
   - Ask hosting support to enable NodeJS?
@@ -78,7 +84,7 @@
 - [ ] Set favicon using [generator](https://realfavicongenerator.net/) or something react-specific
 
 ## Finances
-- [ ] Get 1076 UAH from the client
 - [ ] Get $500 after the job is done
+- [x] Get 1076 UAH from the client - got 1080 UAH
 - [x] Buy hosting and domain - bought for 1076 UAH on Apr 14, 2019.
 - [x] Get $100 in advance (total agreed fee is $600)
