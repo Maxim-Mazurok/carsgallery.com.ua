@@ -52,6 +52,7 @@
 ## Tasks
 - [ ] Create telegram usernames for both phones (to make links on the website) and set links
 - [ ] Get the logo source in original quality
+- [x] Use "Прокат" on the second homepage slider
 - [x] Get Russian texts:
   - [x] [About](pages/about/ru.md)
   - [x] [Terms](pages/terms/ru.md)
