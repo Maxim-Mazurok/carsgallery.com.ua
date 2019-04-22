@@ -25,6 +25,12 @@
 - Callback hunter ([binotel/getcall](http://www.binotel.ua/getcall))
 - Only USD currency
 - No car categories
+- Rental price will vary depending on the rent duration: 1-7 days, 8-29 days and 30+ days.
+
+## Notes
+- On the buy/rent car page, I do not want to show "color" and "city" parameters.
+  - Color should be clearly seen on the pictures. While adding this parameter might be really tricky, requiring to include all colors and their translations.
+  - Business currently operates only in Odessa, so there is no point of adding "city" parameter. And it has same drawbacks, as the "color" parameter.
 
 ## Pages
 - [ ] Home page
