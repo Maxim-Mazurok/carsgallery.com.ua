@@ -14,7 +14,7 @@
 - Contacts - there should be a page with all contacts
   - Бугаёвская, 35 (бизнес-центр "Меркурий"), офис 214 - [2gis](https://2gis.ua/odessa/firm/1970853118168475), [Google Maps](https://goo.gl/maps/VSL4i5RYU3E2)
   - 093 078 99 27 (Viber, WhatsApp, Telegram)
-  - 063 120 60 60 (Viber?, WhatsApp?, Telegram?)
+  - 063 120 60 60 (Viber, WhatsApp, Telegram)
   - [Viber group](https://invite.viber.com/?g2=AQA5qjIlkxZcq0lM4QKoGEr1%2BS%2FFniUTJ4%2FmvXkwi4uldvW53T0IQz0%2BeLTvJ51M)
   - [Instagram](https://www.instagram.com/rent_carsgallery_od/)
 - Cars should have a picture (upload) and youtube videos (embed)
@@ -53,6 +53,9 @@
   - [ ] Backend integration (optional)
 - [x] Contacts
   - [x] Markup
+  - [ ] Backend integration (optional)
+- [ ] Terms
+  - [ ] Markup
   - [ ] Backend integration (optional)
 
 ## Tasks
