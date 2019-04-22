@@ -20,7 +20,7 @@
 - Cars should have a picture (upload) and youtube videos (embed)
 - Labels for cars - they should be able to add following labels to the car postings: "New arrival", "Sale" ("Новинка", "Акция")
 - carsgallery.com.ua - that's the domain name that they decided on
-- About company - create a page with the [company description](pages/about/en.md) (make a links from "call", "come to office", etc.)
+- About company - create a page with the [company description](pages/about/en.md) (make links from "call", "come to office", etc.)
 - Internationalization - English, Russian and Ukrainian
 - Callback hunter ([binotel/getcall](http://www.binotel.ua/getcall))
 - Only USD currency
@@ -41,15 +41,22 @@
   - [ ] Backend integration
 - [ ] Buy single car
   - [ ] Markup
+    - [ ] Contact form
+    - [ ] Embedded YouTube videos
   - [ ] Backend integration
 - [ ] Rent
-  - [x] Markup
+  - [ ] Markup
+    - [ ] Terms of rent
   - [ ] Backend integration
 - [ ] Rent single car
   - [ ] Markup
+    - [ ] Contact form
+    - [ ] Embedded YouTube videos
+    - [ ] Price table
   - [ ] Backend integration
-- [x] About us
-  - [x] Markup
+- [ ] About us
+  - [ ] Markup
+    - [ ] Make links from "call", "come to office", etc.
   - [ ] Backend integration (optional)
 - [x] Contacts
   - [x] Markup
@@ -57,6 +64,7 @@
 - [ ] Terms
   - [ ] Markup
   - [ ] Backend integration (optional)
+- [ ] Labels for cars ("New arrival", "Sale", etc.)
 
 ## Tasks
 - [ ] Create telegram usernames for both phones (to make links on the website) and set links
@@ -92,6 +100,7 @@
   - Use hash-routing strategy for React?
   - Use subdomain for CMS?
 - [ ] Set favicon using [generator](https://realfavicongenerator.net/) or something react-specific
+- [ ] Add Callback hunter?
 
 ## Finances
 - [ ] Get $500 after the job is done
