@@ -42,7 +42,7 @@
 - [ ] Buy single car
   - [ ] Markup
     - [ ] Contact form
-    - [ ] Embedded YouTube videos
+    - [x] Embedded YouTube videos
   - [ ] Backend integration
 - [ ] Rent
   - [ ] Markup
@@ -51,7 +51,7 @@
 - [ ] Rent single car
   - [ ] Markup
     - [ ] Contact form
-    - [ ] Embedded YouTube videos
+    - [x] Embedded YouTube videos
     - [ ] Price table
   - [ ] Backend integration
 - [ ] About us
