@@ -55,8 +55,8 @@
     - [ ] Price table
   - [ ] Backend integration
 - [ ] About us
-  - [ ] Markup
-    - [ ] Make links from "call", "come to office", etc.
+  - [x] Markup
+    - [x] Make links from "call", "come to office", etc.
   - [ ] Backend integration (optional)
 - [x] Contacts
   - [x] Markup
