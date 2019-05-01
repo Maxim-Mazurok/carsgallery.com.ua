@@ -55,8 +55,9 @@
     - [ ] Price table
   - [ ] Backend integration
 - [ ] About us
-  - [x] Markup
+  - [ ] Markup
     - [x] Make links from "call", "come to office", etc.
+    - [ ] Replace `[leave a request](#)` with actual link to contact form
   - [ ] Backend integration (optional)
 - [x] Contacts
   - [x] Markup
