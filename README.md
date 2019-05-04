@@ -40,8 +40,8 @@
   - [x] Markup
   - [ ] Backend integration
 - [ ] Buy single car
-  - [ ] Markup
-    - [ ] Contact form
+  - [x] Markup
+    - [x] Contact form
     - [x] Embedded YouTube videos
   - [ ] Backend integration
 - [ ] Rent
@@ -50,14 +50,14 @@
   - [ ] Backend integration
 - [ ] Rent single car
   - [ ] Markup
-    - [ ] Contact form
+    - [x] Contact form
     - [x] Embedded YouTube videos
     - [ ] Price table
   - [ ] Backend integration
 - [ ] About us
   - [ ] Markup
     - [x] Make links from "call", "come to office", etc.
-    - [ ] Replace `[leave a request](#)` with actual link to contact form
+    - [x] Replace `[leave a request](#)` with actual link to contact form
   - [ ] Backend integration (optional)
 - [x] Contacts
   - [x] Markup
