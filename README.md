@@ -33,39 +33,37 @@
   - Business currently operates only in Odessa, so there is no point of adding "city" parameter. And it has same drawbacks, as the "color" parameter.
 
 ## Pages
-- [ ] Home page
-  - [x] Markup
-  - [ ] Backend integration
-- [ ] Buy
-  - [x] Markup
-  - [ ] Backend integration
-- [ ] Buy single car
-  - [x] Markup
+- Markup:
+  - [x] Home page
+  - [x] Buy
+    - [x] Labels for cars ("New arrival", "Sale", etc.)
+  - [x] Buy single car
     - [x] Contact form
     - [x] Embedded YouTube videos
-  - [ ] Backend integration
-- [ ] Rent
-  - [ ] Markup
-    - [ ] Terms of rent
-  - [ ] Backend integration
-- [ ] Rent single car
-  - [ ] Markup
+    - [x] Labels for cars ("New arrival", "Sale", etc.)
+  - [ ] Rent
+    - [x] Labels for cars ("New arrival", "Sale", etc.)
+    - [ ] Link to terms of rent
+  - [ ] Rent single car
     - [x] Contact form
     - [x] Embedded YouTube videos
+    - [x] Labels for cars ("New arrival", "Sale", etc.)
     - [ ] Price table
-  - [ ] Backend integration
-- [ ] About us
-  - [ ] Markup
+  - [x] About us
     - [x] Make links from "call", "come to office", etc.
     - [x] Replace `[leave a request](#)` with actual link to contact form
-  - [ ] Backend integration (optional)
-- [x] Contacts
-  - [x] Markup
-  - [ ] Backend integration (optional)
-- [ ] Terms
-  - [ ] Markup
-  - [ ] Backend integration (optional)
-- [ ] Labels for cars ("New arrival", "Sale", etc.)
+  - [x] Contacts
+  - [ ] Terms of rent
+    
+- Backend integration:
+  - [ ] Home page
+  - [ ] Buy
+  - [ ] Buy single car
+  - [ ] Rent
+  - [ ] Rent single car
+  - [ ] About us (optional)
+  - [ ] Contacts (optional)
+  - [ ] Terms (optional)
 
 ## Tasks
 - [ ] Create telegram usernames for both phones (to make links on the website) and set links
