@@ -41,13 +41,13 @@
     - [x] Contact form
     - [x] Embedded YouTube videos
     - [x] Labels for cars ("New arrival", "Sale", etc.)
-  - [ ] Rent
+  - [x] Rent
     - [x] Labels for cars ("New arrival", "Sale", etc.)
-    - [ ] Link to terms of rent
   - [ ] Rent single car
     - [x] Contact form
     - [x] Embedded YouTube videos
     - [x] Labels for cars ("New arrival", "Sale", etc.)
+    - [x] Link to terms of rent
     - [ ] Price table
   - [x] About us
     - [x] Make links from "call", "come to office", etc.
