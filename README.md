@@ -53,7 +53,7 @@
     - [x] Make links from "call", "come to office", etc.
     - [x] Replace `[leave a request](#)` with actual link to contact form
   - [x] Contacts
-  - [ ] Terms of rent
+  - [x] Terms of rent
     
 - Backend integration:
   - [ ] Home page
