@@ -56,6 +56,7 @@
   - [x] Terms of rent
     
 - Backend integration:
+  - [ ] Probably get rid of the URL, and just use ID to make it easier to add new cars
   - [ ] Home page
   - [ ] Buy
   - [ ] Buy single car
