@@ -56,19 +56,20 @@
   - [x] Terms of rent
     
 - Backend integration:
-  - [ ] Probably get rid of the URL, and just use ID to make it easier to add new cars
-  - [ ] Home page
-  - [ ] Buy
-  - [ ] Buy single car
-  - [ ] Rent
-  - [ ] Rent single car
+  - [x] Probably get rid of the URL, and just use ID to make it easier to add new cars - URLs are generated automatically based on the name
+  - [x] Home page
+  - [x] Buy
+  - [x] Buy single car
+  - [x] Rent
+  - [x] Rent single car
+  - [ ] Contact form
   - [ ] About us (optional)
   - [ ] Contacts (optional)
   - [ ] Terms (optional)
 
 ## Tasks
-- [ ] Create telegram usernames for both phones (to make links on the website) and set links
-- [ ] Get the logo source in original quality
+- [x] Create telegram usernames for both phones (to make links on the website) and set links
+- [x] Get the logo source in original quality - failed, no original logo will be provided. Had to trace the bitmap...
 - [x] Use "Прокат" on the second homepage slider
 - [x] Get Russian texts:
   - [x] [About](pages/about/ru.md)
