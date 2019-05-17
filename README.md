@@ -83,22 +83,22 @@
 - [x] Configure free SSL-certificate 
 
 ## Release check-list
-- [ ] Translation
-  - [ ] Check that everything is translated
-  - [ ] Check that there's no unresolved translations
-  - [ ] Disable i18n debug mode
+- [x] Translation
+  - [x] Check that everything is translated
+  - [x] Check that there's no unresolved translations
+  - [x] Disable i18n debug mode
 - [ ] Check any eslint issues
   - [ ] Make sure that telegram links are set
 - [ ] Run pa11y tests
-- [ ] Enable slider animation (add `interval={5000}` to `<Slider/>` in `Home.js`)
-- [ ] Make sure everything works fine on hosting
-  - Server-side rendering with PHP? [read](https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/)
-  - Ask hosting support to enable NodeJS?
-  - Setup routing, so that CMS works, and React renders correctly?
-  - Use hash-routing strategy for React?
-  - Use subdomain for CMS?
-- [ ] Set favicon using [generator](https://realfavicongenerator.net/) or something react-specific
-- [ ] Add Callback hunter?
+- [x] Enable slider animation (add `interval={5000}` to `<Slider/>` in `Home.js`)
+- [x] Make sure everything works fine on hosting
+  - [x] Server-side rendering with PHP? [read](https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/) - outside of the current version scope
+  - [x] Ask hosting support to enable NodeJS? - they can't do that
+  - [x] Setup routing, so that CMS works, and React renders correctly? - yes, done
+  - [x] Use hash-routing strategy for React? - yes, by default
+  - [x] Use subdomain for CMS? - yes, `cms` subdomain
+- [x] Set favicon using [generator](https://realfavicongenerator.net/) or something react-specific
+- [x] Add Callback hunter? - outside of the current version scope
 
 ## Finances
 - [ ] Get $500 after the job is done
