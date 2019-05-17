@@ -87,9 +87,9 @@
   - [x] Check that everything is translated
   - [x] Check that there's no unresolved translations
   - [x] Disable i18n debug mode
-- [ ] Check any eslint issues
-  - [ ] Make sure that telegram links are set
-- [ ] Run pa11y tests
+- [x] Check any eslint issues
+  - [x] Make sure that telegram links are set
+- [x] Run pa11y tests
 - [x] Enable slider animation (add `interval={5000}` to `<Slider/>` in `Home.js`)
 - [x] Make sure everything works fine on hosting
   - [x] Server-side rendering with PHP? [read](https://sebastiandedeyne.com/server-side-rendering-javascript-from-php/) - outside of the current version scope
