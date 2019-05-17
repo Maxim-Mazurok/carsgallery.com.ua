@@ -62,10 +62,7 @@
   - [x] Buy single car
   - [x] Rent
   - [x] Rent single car
-  - [ ] Contact form
-  - [ ] About us (optional)
-  - [ ] Contacts (optional)
-  - [ ] Terms (optional)
+  - [x] Contact form
 
 ## Tasks
 - [x] Create telegram usernames for both phones (to make links on the website) and set links
