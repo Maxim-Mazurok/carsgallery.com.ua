@@ -101,7 +101,7 @@
 - [x] Add Callback hunter? - outside of the current version scope
 
 ## Finances
-- [ ] Get $500 after the job is done
+- [x] Get $500 after the job is done
 - [x] Get 1076 UAH from the client - got 1080 UAH
 - [x] Buy hosting and domain - bought for 1076 UAH on Apr 14, 2019.
 - [x] Get $100 in advance (total agreed fee is $600)
